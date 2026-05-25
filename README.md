@@ -15,3 +15,7 @@ devops-nginx-site/
 └── ci.yml ← builds & pushes image on every push to main
 
 This is a simple project that implements a CI/CD pipeline using GitHub Actions and Kubernetes.
+
+## Architecture
+
+![Architecture diagram](./assets/devops_nginx_site_architecture.svg)
